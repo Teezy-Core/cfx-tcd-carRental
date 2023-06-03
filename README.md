@@ -2,7 +2,7 @@
 ![Logo](https://media.discordapp.net/attachments/1020000303078199326/1114342182321655849/Teezy_Core_with_text.png)
 
 
-![Script Screenshot](https://media.discordapp.net/attachments/1018054474926915676/1114352883580809276/image.png?width=1246&height=701)
+![Script Screenshot](https://media.discordapp.net/attachments/1018054474926915676/1114372602903920650/Advanced_Car_Rental.png?width=1246&height=701)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTeezy-Core%2Fteezy-Carrental&label=Visitors&countColor=%23263759) 
 
