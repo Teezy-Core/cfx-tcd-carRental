@@ -16,7 +16,7 @@ A **Advanced** Car Rental for QBCore (Nopixel Inspired) Originally Made by [Naor
 
 1. Download the script from the source.
 2. Place the script in the `resources` folder of your FiveM server.
-3. Add the following line to your server.cfg file: `teezy-vpRange`
+3. Add the following line to your server.cfg file: `cfx-tcd-carRental`
 4. Start your FiveM server and enjoy!
 
 ## Dependencies
